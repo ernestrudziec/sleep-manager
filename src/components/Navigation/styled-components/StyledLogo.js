@@ -3,6 +3,8 @@ import styled from 'styled-components';
 
 const StyledLogo = styled.img`
 
+margin: 0;
+padding: 0;
 width: 80px;
 height: 60px;
 
