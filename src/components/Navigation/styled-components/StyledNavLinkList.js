@@ -14,7 +14,9 @@ text-transform: uppercase;
 letter-spacing: 2px;
 transition: 0.3s;
 
-
+img{
+display: none;
+}
 
 a{
 text-decoration: none;
@@ -60,6 +62,10 @@ height: 103vh !important;
 justify-content: center;
 flex-direction: column;
 background: white;
+
+img{
+display: initial;
+}
 
 li{
 margin-top: 1em;
