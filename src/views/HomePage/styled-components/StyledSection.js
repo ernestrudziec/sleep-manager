@@ -11,7 +11,7 @@ flex-wrap: wrap;
 align-items: flex-start;
 margin: 0;
 padding: 0;
-margin: 10em 0;
+margin-bottom: 5em;
 
 
 div{

@@ -52,19 +52,20 @@ ${({opened}) => opened &&
 display: flex !important;
      position: fixed;
 z-index: 999;
-top: -30px;
+top: -3vh;
 left: 0;
 right: 0;
 bottom: 0;
-height: 105vh !important;
+height: 103vh !important;
 justify-content: center;
 flex-direction: column;
 background: white;
 
 li{
 margin-top: 1em;
-font-size: 1em;
-font-weight: 600;
+
+font-size: 2em;
+font-weight: 900;
 width: auto;
 display: flex;
 

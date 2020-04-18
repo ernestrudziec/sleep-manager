@@ -21,6 +21,17 @@ img{
 height: 3em;
 opacity: 0.3;
 }
+
+@media screen and (max-width: 800px){
+font-size: 0.8em;
+flex-direction: column;
+
+
+div{
+margin: 0;
+margin-top: 1em;
+}
+}
 `;
 
 export default StyledFooter;

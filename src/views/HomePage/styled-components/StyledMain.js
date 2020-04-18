@@ -77,16 +77,47 @@ text-transform: lowercase;
 
 @media screen and (max-width: 800px){
 
+position: relative;
+
+:before{
+content: '';
+position: absolute;
+left: 0;
+top: 0;
+bottom: 0;
+right: 0;
+background: url("https://images.pexels.com/photos/935777/pexels-photo-935777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940") no-repeat;
+background-size: cover;
+background-position: center;
+z-index: -2;
+
+}
+
+
+:after{
+content: '';
+position: absolute;
+left: 0;
+top: 0;
+bottom: 0;
+right: 0;
+background: linear-gradient(-180deg, rgba(255,255,255,0.7) 0%, rgba(255,255,255,1) 90%);
+z-index: -1;
+
+}
+
 div{
 
 bottom: 2em;
 }
 video{
 display: none;
+overflow: hidden;
 }
 
 
 header{
+color: #131313;
 h1{
 font-size: 3em;
 line-height: 1;
