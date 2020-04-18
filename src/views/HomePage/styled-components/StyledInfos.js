@@ -7,6 +7,7 @@ height: auto;
 display: flex;
 justify-content: space-evenly;
 align-items: flex-start;
+margin-bottom: 10em;
 
 
 div{
@@ -48,7 +49,7 @@ padding: 0;
 @media screen and (max-width: 1200px){
 flex-direction: column;
 align-items: center;
-
+margin-bottom: 2em;
 div{
 margin-top: 5em;
 width: 80vw;

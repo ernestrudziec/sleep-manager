@@ -3,12 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1d49a437-b72b-4db5-be9c-dfe5e03cba77" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer/StyledFooter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/StyledFooter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navigation/components/NavLinkList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation/components/NavLinkList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navigation/styled-components/StyledNavLinkList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation/styled-components/StyledNavLinkList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navigation/styled-components/activeLink.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation/styled-components/activeLink.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/HomePage/styled-components/StyledMain.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/HomePage/styled-components/StyledMain.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/HomePage/styled-components/StyledSection.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/HomePage/styled-components/StyledSection.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/HomePage/styled-components/StyledInfos.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/HomePage/styled-components/StyledInfos.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587116478539</updated>
-      <workItem from="1587116480745" duration="20404000" />
+      <workItem from="1587116480745" duration="20713000" />
     </task>
     <servers />
   </component>
