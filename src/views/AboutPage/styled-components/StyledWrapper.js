@@ -38,7 +38,7 @@ font-weight: 300;
 width: 90%;
 max-width: 800px;
 margin-bottom: 0.3em;
-text-align: center;
+
 
 i{
 margin-left: 5px;
