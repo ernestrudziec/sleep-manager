@@ -27,7 +27,7 @@ function Root() {
     };
 
 
-    let [isMenuOpened, setMenuOpened] = useState( true);
+    let [isMenuOpened, setMenuOpened] = useState( false);
 
     return (
 
