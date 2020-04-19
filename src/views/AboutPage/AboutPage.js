@@ -30,11 +30,22 @@ const AboutPage = ({hideMenu, isOpened}) => {
 
 
                 <StyledUl>
-                    <li>Funkcja usypiania</li>
-                    <li>Wyświetla aktualną pogodę oraz godzinę</li>
-                    <li>Jest źródłem światła, jak zwykła lampka nocna</li>
-                    <li>Ma wbudowany budzik</li>
-                    <li>Przypomina o ładowaniu</li>
+                    <li>
+
+                        <i className="fas fa-bed"></i>Funkcja usypiania
+                    </li>
+                    <li>
+                        <i className="fas fa-wind"></i>Wyświetla aktualną pogodę oraz godzinę
+                    </li>
+                    <li>
+                        <i className="fas fa-lightbulb"></i>Jest źródłem światła, jak zwykła lampka nocna
+                    </li>
+                    <li>
+                        <i className="fas fa-clock"></i>Ma wbudowany budzik
+                    </li>
+                    <li>
+                        <i className="fas fa-bolt"></i>Przypomina o ładowaniu
+                    </li>
                 </StyledUl>
 
 

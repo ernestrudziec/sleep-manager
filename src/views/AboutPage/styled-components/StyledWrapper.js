@@ -7,14 +7,31 @@ export const StyledUl = styled.ul`
 width: 100% !important;
 
 li{
+
+i{
+width: 60px;
+font-size: 3em !important;
+margin-right: 0.5em;
+}
+
+position: relative;
+
 height: 100px !important;
 flex: auto;
-justify-content: center;
+justify-content: center !important;
+text-align: center;
 align-items: center;
 box-shadow: 0 10px 20px rgba(0,0,0,0.12), 0 6px 6px rgba(0,0,0,0.01);
 background: #02BABC !important;
 font-size: 0.5em !important;
 padding: 0 2em !important;
+
+@media screen and (max-width: 800px){
+justify-content: flex-start !important;
+text-align: left;
+}
+
+
 :nth-of-type(1), :nth-of-type(4){
 background: #016E6E !important;
 }
