@@ -113,6 +113,7 @@ bottom: 2em;
 video{
 display: none;
 overflow: hidden;
+pointer-events: none;
 }
 
 

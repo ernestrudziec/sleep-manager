@@ -5,7 +5,7 @@ import { NavLink } from "react-router-dom";
 import styles from '../styled-components/activeLink.module.scss';
 import logo from '../../../assets/logo/logo.svg';
 
-const NavLinkList = ({opened, isClicked}) => {
+const NavLinkList = ({opened}) => {
     return (
         <StyledNavLinkList opened={opened}>
 
