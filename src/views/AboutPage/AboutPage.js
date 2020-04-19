@@ -45,10 +45,10 @@ const AboutPage = ({hideMenu, isOpened}) => {
             </h1>
 
             <ul>
-                <li>1. Dotykowy wyświetlacz</li>
-                <li>2. Powierzchnia podświetlana</li>
-                <li>3. Gniazdo zasilania</li>
-                <li>4. Drewniana podstawka</li>
+                <li><span>1</span> Dotykowy wyświetlacz</li>
+                <li><span>2</span> Powierzchnia podświetlana</li>
+                <li><span>3</span>  Gniazdo zasilania</li>
+                <li><span>4</span>  Drewniana podstawka</li>
             </ul>
 
             <img src={project} />

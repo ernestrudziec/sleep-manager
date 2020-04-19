@@ -14,6 +14,7 @@ align-items: center;
 box-shadow: 0 10px 20px rgba(0,0,0,0.12), 0 6px 6px rgba(0,0,0,0.01);
 background: #02BABC !important;
 font-size: 0.5em !important;
+padding: 0 2em !important;
 :nth-of-type(1), :nth-of-type(4){
 background: #016E6E !important;
 }
@@ -73,18 +74,29 @@ li{
 
 flex: auto;
 display: flex;
-justify-content: center;
+justify-content: flex-start;
 align-items: center;
 margin: 0.3em 0.3em;
 background: #131313;
 color: white;
 font-size: 0.8em;
 height: 50px;
-display: flex;
 font-weight: 600;
 padding: 0.5em;
 
 border-radius: 5px;
+
+span{
+color: #131313;
+background: white;
+width: 25px !important;
+height: 25px;
+border-radius: 50%;
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 0 1em;
+}
 }
 }
 
