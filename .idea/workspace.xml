@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d49a437-b72b-4db5-be9c-dfe5e03cba77" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/views/GalleryPage/StyledGalleryPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/AboutPage/AboutPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/AboutPage/AboutPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/AppPage/AppPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/AppPage/AppPage.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/views/ContactPage/ContactPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/ContactPage/ContactPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/GalleryPage/GalleryPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/GalleryPage/GalleryPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/HomePage/styled-components/StyledMain.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/HomePage/styled-components/StyledMain.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +74,7 @@
       <updated>1587116478539</updated>
       <workItem from="1587116480745" duration="27732000" />
       <workItem from="1587406109462" duration="4855000" />
-      <workItem from="1588151115170" duration="3065000" />
+      <workItem from="1588151115170" duration="3234000" />
     </task>
     <servers />
   </component>

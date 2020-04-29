@@ -6,12 +6,13 @@ import styled from 'styled-components';
 const StyledContactPage = styled.section`
 min-height: 100vh;
 width: 100%;
-padding-top: 100px;
+
 display: flex;
 justify-content: center;
 align-items: center;
 flex-direction: column;
 padding: 0 1em;
+padding-top: 100px;
 text-align: center;
 
 `;
