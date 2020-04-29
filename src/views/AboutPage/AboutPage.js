@@ -4,7 +4,7 @@ import { StyledWrapper, StyledUl}
 import {Link} from "react-router-dom";
 import project from '../../assets/project.png';
 import project2 from '../../assets/project2.png';
-
+import img1 from '../../assets/img1.jpg';
 
 const AboutPage = ({hideMenu, isOpened}) => {
 
@@ -12,8 +12,8 @@ const AboutPage = ({hideMenu, isOpened}) => {
 
     return (
         <StyledWrapper>
-            <h1>Czym jest <b>Sleep manager</b> <i
-                className="fas fa-question-circle"></i>
+            <h1>Czym jest <b>Sleep manager</b>
+                <i className="fas fa-question-circle"></i>
             </h1>
             <p>
 
@@ -24,7 +24,7 @@ const AboutPage = ({hideMenu, isOpened}) => {
 
             </p>
 
-            <img src='https://lh4.googleusercontent.com/gMKmlYMSSQiU8exdfJM9o7ziVMEqZxK_a2LPenErCDlz4Ct0uWjI38OutBPWJPDI3yFBlBK0YKNvUdShcdWGfuUmDJm_QFVH2OcJX4B_' />
+            <img src={img1} />
 
             <h1>Jakie ma <b>funkcjonalności?</b>                <i className="fas fa-clipboard-check">  </i>
 
